@@ -1,0 +1,93 @@
+.full{
+	background: url(../images/Capture.PNG);
+}
+.title{
+	padding: 120px 0px 0px 30px;
+	font-size: 50px;
+}
+ .full{
+ 	height:700px;
+ 	width: 100%;
+ }
+
+
+.log{
+	padding-top:120px;
+}
+
+/********* End of log in  *******/	
+
+
+.myclss{
+	padding: 90px 15px 60px; 
+ background: url(../images/Capture.PNG)repeat;
+}
+
+.text-muted{
+	font-weight: 80px;
+	font-size: 30px;
+}
+.deco{
+color:#fff;
+font-size: 25px;
+}
+.text{
+color: #fff;
+font-size: 40px;
+}
+.tpad{
+padding-top: 35px;
+	}
+
+.carousel-inner > .item{
+    height: 400px;   
+}
+.ftr{
+	padding-top: 30px;
+color: #fff;
+}
+.add{
+	font-size: 20px;
+}
+@media(min-width: 768px){
+.carousel-inner > .item{
+	 height: 700px; 
+    }}
+  .carousel-caption{
+    z-index: 10;} 
+
+    .carousel-inner > .item > img{
+    position: absolute;
+    top: 50px;
+    left: 0;
+    min-width: 100%;
+    height: auto;
+}
+.carousel-inner > .item{
+    height: 500px;   
+}
+/********* End of index *******/	
+p,h3,a{
+	color: #4bc;
+}
+.we{
+	color: #000;
+}
+.page{
+	padding-left:300px;
+}
+.foot{
+	background: url(../images/foot.PNG)repeat;
+}
+.ft{
+	padding:50px 0px 0px 40px; 
+}
+.sml{
+	color: #fff;
+}
+.not{padding-top: 35px;text-align: center;}
+.notice{font-size: 20px;}
+.regi{padding-top: 80px;text-align: center;font-size: 30px;}
+.frm{padding-top: 40px;}
+.choice2{padding-top: 40px;text-align: center; border: 4px;
+	     border-color: red;border-width: 300px;}

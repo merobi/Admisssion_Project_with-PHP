@@ -1,0 +1,29 @@
+.hd{padding-top: 30px;}
+.frm{height: 928px;width: 895px;
+	border: 2px solid #abc;
+    padding-left: 30px;
+    margin-left: 55px;}
+
+.std{border: 2px solid #abc;
+	height: 150px;width: 830px;padding-top:8px;padding-left: 5px}
+
+.par{border: 2px solid #abc;
+	height: 110px;width: 830px;padding-top:8px;padding-left: 5px}
+
+.add{border: 2px solid #abc;
+	height: 50px;width: 830px;padding-top:8px;padding-left: 5px}
+
+.edu{border: 2px solid #abc;
+	height: 370px;width: 830px;padding-top:8px;padding-left: 5px}
+
+.ssc{border: 2px solid #abc;
+	height: 120px;width: 768px;padding-top:8px;padding-left: 5px}
+
+.hsc{border: 2px solid #abc;
+	height: 120px;width: 768px;padding-top:8px;padding-left: 5px}
+
+.adm{padding-left: 5px;}
+
+.btn{text-align: right;}
+
+.required{font-size: 20px;color: red;}

@@ -1,0 +1,113 @@
+/*.login{
+background:violet;
+text-align:center;
+height:350px;width: 500px;
+margin: 20px 20px 20px 20px;
+padding-right: 70px;
+padding-top:130px;
+padding-left: 20px;
+color:black;
+border:3px dotted red;
+
+}*/
+body{background-color: #fff;}
+h2 {
+background-color:#FEFFED;
+text-align:center;
+color:#380000;
+border-radius:10px 10px 10px 10px;
+padding:15px
+
+}
+hr {
+border:0;
+border-bottom:1px solid #ccc;
+margin:10px -40px;
+margin-bottom:30px
+}
+#design{
+	background-color: #202020;
+position:50px;
+border:5px solid #00ffff;
+height:485px;width:585px;	
+margin-left:380px; 
+margin-top: 65px;
+}
+#login {
+color:#8fbc8f;
+width:300px;
+float:left;
+padding-right:30px;
+border-radius:10px 10px;
+font-family:raleway;
+font-size: 20px;
+border:2px solid #60c150;
+padding:25px 51px 0px;
+margin-top:40px;
+margin-left:135px;
+
+}
+input[type=text],input[type=password],input[type=email] {
+width:99.5%;
+padding:10px;
+margin-top:8px;
+border:1px solid #ccc;
+padding-left:5px;
+font-size:16px;
+font-family:raleway;
+border-radius:10px 10px 10px 10px;
+
+}
+
+input[type=submit] {
+width:35%;
+background-color:#ba2be2;
+color:#fff;
+border:2px solid #FFCB00;
+padding:5px;
+font-size:20px;
+cursor:pointer;
+border-radius:10px 10px 10px 10px;
+margin-bottom:15px
+}
+.reg_btn{height: 10px;width: 20px;}
+#maincontent{
+text-align: center;
+
+}
+/******************************/
+.form{height: 1575px;width: 600px;
+	border: 2px solid #abc;
+    padding-left: 30px;
+    margin-left: 55px;
+}
+.form2{height: 935px;width: 600px;
+	border: 2px solid #abc;
+    padding-left: 30px;
+    margin-left: 60px;
+}
+.sell{width:99.5%;
+padding:10px;
+margin-top:8px;
+border:1px solid #ccc;
+padding-left:5px;
+font-size:16px;
+font-family:raleway;
+border-radius:10px 10px 10px 10px;}
+
+.required{color: red;}
+.hd{padding-top: 40px; padding-left: 50px;}
+.stdnt{color:black;font-size: 15px;}
+.reg{padding-top: 35px;
+     padding-left: 52px;}
+.tab{padding-top:40px;}
+.tab2{padding-top:40px;padding-left:310px;}
+.tab3{padding-top:40px;padding-left:310px;width: 800px;}
+.unit{padding-top: 80px;font-size:25px;}
+.rslt{color: red;width: 300px;height: 300px;}
+.fac{text-align: center;}
+ /*.mform{height: 550px;width: 600px;
+           border: 2px solid #abc;
+ 	padding-left: 335px;}
+
+.label{font-size: 20px;} */
